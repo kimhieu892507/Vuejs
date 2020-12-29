@@ -1,0 +1,7 @@
+1. Development
+    - Babel: is a Javascript compiler ES6->ES5 (https://babeljs.io/repl)
+        -> ES6 phiên bản mới
+    - Webpack -> Công cụ đóng gói code
+props: những data truyền từ Coponent cha vào component con
+cú pháp giống thuộc tính -> ràng buộc thuộc tính -> Sử dụng v-bind
+default: giá trị mặc định
